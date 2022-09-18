@@ -1,0 +1,3 @@
+document;
+
+document.firstElementChild; //html
